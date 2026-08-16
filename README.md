@@ -131,3 +131,27 @@ This project demonstrates an end-to-end analytical workflow:
 **Data Preparation → Exploratory Analysis → Business Diagnosis → DAX Modeling → Power BI Dashboard → Business Insights**
 
 The analysis focuses on moving beyond descriptive reporting to identify the underlying drivers of business performance and translate them into actionable insights.
+
+## Business Recommendations
+
+Based on the analysis:
+
+- Focus on customer acquisition and reactivation to address the decline in active customers and order volume.
+- Reassess high-discount campaigns, particularly 15–20% discounts, as they significantly reduce profit margins without materially increasing AOV.
+- Prioritize high-performing acquisition channels such as Organic and Direct while evaluating the efficiency of lower-contributing sources.
+- Monitor funnel drop-offs to identify opportunities to improve conversion from product engagement to purchase.
+- Maintain focus on profitable product categories while monitoring lower-contributing categories for improvement opportunities.
+
+## Skills Demonstrated
+
+- Data Cleaning & Preparation
+- Exploratory Data Analysis
+- Business & Diagnostic Analysis
+- Customer & Revenue Analytics
+- Profitability Analysis
+- Funnel Analysis
+- Pareto Analysis
+- Customer Retention Analysis
+- DAX & Power BI
+- Data Visualization
+- Business Insight Generation
