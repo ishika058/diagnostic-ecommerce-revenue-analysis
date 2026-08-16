@@ -114,7 +114,7 @@ Analyzed customer purchasing behavior and repeat-order patterns to understand re
 
 ### Discount Impact
 
-![Discount Impact](Screenshots/discount-impact.png)
+![Discount Impact](Screenshots/discount_impact.png)
 
 ### Product & Source Analysis
 
