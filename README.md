@@ -98,31 +98,31 @@ Analyzed customer purchasing behavior and repeat-order patterns to understand re
 
 ### Overview
 
-![Overview](overview.png)
+![Overview](Screenshots/overview.png)
 
 ### Revenue Root Cause Analysis
 
-![Revenue Root Cause](root_cause.png)
+![Revenue Root Cause](Screenshots/root_cause.png)
 
 ### Profitability Analysis
 
-![Profitability Analysis](profitability_analysis.png)
+![Profitability Analysis](Screenshots/profitability_analysis.png)
 
 ### Funnel Analysis
 
-![Funnel Analysis](funnel_analysis.png)
+![Funnel Analysis](Screenshots/funnel_analysis.png)
 
 ### Discount Impact
 
-![Discount Impact](discount-impact.png)
+![Discount Impact](Screenshots/discount-impact.png)
 
 ### Product & Source Analysis
 
-![Product Analysis](product_analysis.png)
+![Product Analysis](Screenshots/product_analysis.png)
 
 ### Customer Retention
 
-![Customer Retention](customer_retention.png)
+![Customer Retention](Screenshots/customer_retention.png)
 
 ## Project Outcome
 
